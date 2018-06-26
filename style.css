@@ -78,3 +78,8 @@
 .move{
 	animation: moveAround 8s infinite;
 }
+
+
+.svg-container{
+	perspective: 1000px;
+}
